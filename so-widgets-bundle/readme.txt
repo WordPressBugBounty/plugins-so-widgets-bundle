@@ -3,8 +3,8 @@ Tags: widgets, blocks, contact form, blog, slider
 Requires at least: 4.2
 Tested up to: 6.7
 Requires PHP: 7.0.0
-Stable tag: 1.64.1
-Build time: 2024-12-14T13:21:54+02:00
+Stable tag: 1.64.2
+Build time: 2024-12-18T09:56:09+02:00
 License: GPLv3 or later
 Contributors: gpriday, braam-genis, alexgso
 Donate link: https://siteorigin.com/downloads/premium/
@@ -108,6 +108,9 @@ SiteOrigin Premium includes access to our professional email support service, pe
 The Widgets Bundle global interface is available at Plugins > SiteOrigin Widgets. Widgets can be enabled or disabled as needed. If a widget offers global settings, you can access those via the Settings button next to each applicable widget.
 
 == Changelog ==
+
+= 1.64.2 - 18 December 2024 =
+* Select: Fixed field name handling to prevent unintended array format in Widgets Bundle forms.
 
 = 1.64.1 - 14 December 2024 =
 * Post Carousel: Auto disabled navigation arrows when `Autoplay Continuous Scroll` enabled.

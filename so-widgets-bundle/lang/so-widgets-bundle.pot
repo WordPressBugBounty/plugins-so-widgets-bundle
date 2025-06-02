@@ -820,7 +820,7 @@ msgstr ""
 msgid "Post Meta Color"
 msgstr ""
 
-#: widgets/blog/blog.php:552, widgets/blog/blog.php:1611
+#: widgets/blog/blog.php:552, widgets/blog/blog.php:1605
 msgid "Pagination"
 msgstr ""
 
@@ -856,40 +856,40 @@ msgstr ""
 msgid "Scroll the user to the top of the Blog Widget after pagination links are clicked."
 msgstr ""
 
-#: widgets/blog/blog.php:1299
+#: widgets/blog/blog.php:1293
 msgid "Sticky"
 msgstr ""
 
-#: widgets/blog/blog.php:1349
+#: widgets/blog/blog.php:1343
 msgid "$category->name"
 msgstr ""
 
 #. translators: used between list items, there is a space after the comma
-#: widgets/blog/blog.php:1353
+#: widgets/blog/blog.php:1347
 msgid ", "
 msgstr ""
 
-#: widgets/blog/blog.php:1369
+#: widgets/blog/blog.php:1363
 msgid "Leave a comment"
 msgstr ""
 
-#: widgets/blog/blog.php:1370
+#: widgets/blog/blog.php:1364
 msgid "One Comment"
 msgstr ""
 
-#: widgets/blog/blog.php:1371, widgets/blog/tpl/offset.php:55
+#: widgets/blog/blog.php:1365, widgets/blog/tpl/offset.php:55
 msgid "% Comments"
 msgstr ""
 
-#: widgets/blog/blog.php:1440, widgets/blog/blog.php:1549, widgets/recent-posts/recent-posts.php:195
+#: widgets/blog/blog.php:1434, widgets/blog/blog.php:1543, widgets/recent-posts/recent-posts.php:195
 msgid "Continue reading"
 msgstr ""
 
-#: widgets/blog/blog.php:1641
+#: widgets/blog/blog.php:1635
 msgid "Get more pagination themes and Ajax reloading with %sSiteOrigin Premium%s"
 msgstr ""
 
-#: widgets/blog/blog.php:1646
+#: widgets/blog/blog.php:1640
 msgid "Adjust the post Read More link text and choose a custom post date format with %sSiteOrigin Premium%s"
 msgstr ""
 

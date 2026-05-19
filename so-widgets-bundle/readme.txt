@@ -3,8 +3,8 @@ Tags: widgets, blocks, contact form, blog, slider
 Requires at least: 4.2
 Tested up to: 6.9
 Requires PHP: 7.0.0
-Stable tag: 1.73.0
-Build time: 2026-05-19T19:25:30+01:00
+Stable tag: 1.73.1
+Build time: 2026-05-19T21:59:20+01:00
 License: GPLv3 or later
 Contributors: gpriday, braam-genis, alexgso
 Donate link: https://siteorigin.com/downloads/premium/
@@ -108,6 +108,9 @@ SiteOrigin Premium includes access to our professional email support service, pe
 The Widgets Bundle global interface is available at Plugins > SiteOrigin Widgets. Widgets can be enabled or disabled as needed. If a widget offers global settings, you can access those via the Settings button next to each applicable widget.
 
 == Changelog ==
+
+= 1.73.1 - 19 May 2026 =
+* General: Corrected release package version metadata to prevent WordPress from repeatedly offering the same update after installing 1.73.0.
 
 = 1.73.0 - 19 May 2026 =
 * Cards Carousel: Scoped overflow handling to the panel to preserve sibling cell sizing in Layout Builder.

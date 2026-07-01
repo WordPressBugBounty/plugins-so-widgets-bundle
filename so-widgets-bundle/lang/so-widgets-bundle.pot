@@ -304,6 +304,18 @@ msgstr ""
 msgid "Selecting a different widget will revert any changes. Continue?"
 msgstr ""
 
+#: docs/diagnostics/sow-blog-preview-profiler.php:3
+msgid "SOW Blog Form Profiler (TEMP DIAGNOSTIC)"
+msgstr ""
+
+#: docs/diagnostics/sow-blog-preview-profiler.php:4
+msgid "Temporary diagnostic for ticket #84645. Profiles the SiteOrigin Blog widget settings form when opened in SiteOrigin Page Builder. Prints a report to the browser console. Safe/read-only; deactivate and delete after use."
+msgstr ""
+
+#: docs/diagnostics/sow-blog-preview-profiler.php:6
+msgid "SiteOrigin Support"
+msgstr ""
+
 #: icons/fontawesome/filter.php:1907, icons/materialicons/filter.php:4
 msgid "Regular"
 msgstr ""

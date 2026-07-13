@@ -3,8 +3,8 @@ Tags: widgets, blocks, contact form, blog, slider
 Requires at least: 4.2
 Tested up to: 7.0
 Requires PHP: 7.0.0
-Stable tag: 1.73.2
-Build time: 2026-07-01T11:40:11+02:00
+Stable tag: 1.74.0
+Build time: 2026-07-13T10:36:07+01:00
 License: GPLv3 or later
 Contributors: gpriday, braam-genis, alexgso
 Donate link: https://siteorigin.com/downloads/premium/
@@ -108,6 +108,16 @@ SiteOrigin Premium includes access to our professional email support service, pe
 The Widgets Bundle global interface is available at Plugins > SiteOrigin Widgets. Widgets can be enabled or disabled as needed. If a widget offers global settings, you can access those via the Settings button next to each applicable widget.
 
 == Changelog ==
+
+= 1.74.0 - 13 July 2026 =
+* Accordion, Tabs: Reset filter-owned title slots at render and escaped title output in templates.
+* Posts Field: Restored listing of all public post types in the Post Type selector regardless of the current user's edit capability.
+* Price Table: Escaped title and icon color style output in the template.
+* General: Added a neutral sanitization floor for select, radio, image radio, and checkboxes fields when the options list is unavailable, so stored values are no longer reset.
+* General: Stripped unrecognized keys from widget instances on save so only declared fields and known companion keys persist.
+* General: Made media, TinyMCE, and container field sanitization more robust across nested and repeater contexts.
+* General: Contributed a field sanitization version signal to Page Builder to keep Layout Block trust signatures accurate.
+* General: Updated dependencies, including lodash-es 4.18.1, basic-ftp 5.2.2, and ip-address 10.2.0.
 
 = 1.73.2 - 01 July 2026 =
 * Blog: Fixed font field initialization lag by lazy-populating font selects on focus while preserving the saved value on save.

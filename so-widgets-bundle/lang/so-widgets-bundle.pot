@@ -2789,15 +2789,15 @@ msgstr ""
 msgid "Alignment "
 msgstr ""
 
-#: widgets/image/image.php:414, widgets/image-grid/image-grid.php:439, widgets/simple-masonry/simple-masonry.php:529, widgets/slider/slider.php:374
+#: widgets/image/image.php:419, widgets/image-grid/image-grid.php:439, widgets/simple-masonry/simple-masonry.php:529, widgets/slider/slider.php:374
 msgid "Add a Lightbox to your images with %sSiteOrigin Premium%s"
 msgstr ""
 
-#: widgets/image/image.php:419, widgets/image-grid/image-grid.php:444, widgets/simple-masonry/simple-masonry.php:534, widgets/slider/slider.php:379
+#: widgets/image/image.php:424, widgets/image-grid/image-grid.php:444, widgets/simple-masonry/simple-masonry.php:534, widgets/slider/slider.php:379
 msgid "Add a beautiful and customizable text overlay with animations to your images with %sSiteOrigin Premium%s"
 msgstr ""
 
-#: widgets/image/image.php:424, widgets/image-grid/image-grid.php:449, widgets/simple-masonry/simple-masonry.php:544
+#: widgets/image/image.php:429, widgets/image-grid/image-grid.php:449, widgets/simple-masonry/simple-masonry.php:544
 msgid "Add an image title tooltip with %sSiteOrigin Premium%s"
 msgstr ""
 
